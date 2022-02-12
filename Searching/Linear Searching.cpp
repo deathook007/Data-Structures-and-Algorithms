@@ -30,7 +30,7 @@ int main(){
 
 /* 
 Linear Seaching
-Approach - Recursive Version
+Approach - Iterative Version
 Time Complexity : O(N)
 Space Complexity : O(N)
 */

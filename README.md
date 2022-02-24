@@ -56,5 +56,5 @@
 
 ### Counting Sort
 - Time complexity : O(n + Range) ~ O(n)
-- Space complexity : O(1)
+- Space complexity : O(Range)
 

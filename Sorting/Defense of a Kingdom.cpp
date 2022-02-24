@@ -1,5 +1,5 @@
 /*
-- Defense of a Kingdom:
+- Defense of a Kingdom: https://www.spoj.com/problems/DEFKIN/
 * On each level a player defends the Kingdom that is represented by a rectangular grid of cells. 
 * The player builds crossbow towers in some cells of the grid. 
 * The tower defends all the cells in the same row and the same column. 
